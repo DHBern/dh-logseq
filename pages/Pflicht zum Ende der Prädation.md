@@ -1,0 +1,3 @@
+- ![Pflicht_zum_Ende_der_Praedation.pdf](../assets/Pflicht_zum_Ende_der_Praedation_1715628887330_0.pdf)
+-
+	- orliegende Arbei
