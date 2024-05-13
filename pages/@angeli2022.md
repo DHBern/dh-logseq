@@ -14,3 +14,6 @@ short-title:: Conceptualising Resources-aware Higher Education Digital Infrastru
 authors:: [[Lorenzo Angeli]], [[Özge Okur]], [[Carlo Corradini]], [[Marcel Stolin]], [[Yilin Huang]], [[Frances Brazier]], [[Maurizio Marchese]]
 library-catalog:: limits.pubpub.org
 links:: [Local library](zotero://select/groups/2386895/items/89VVNCEZ), [Web library](https://www.zotero.org/groups/2386895/items/89VVNCEZ)
+
+- [[Attachments]]
+	- [Full Text PDF](https://limits.pubpub.org/pub/concept/download/pdf) {{zotero-imported-file 826BVZGC, "Angeli et al. - 2022 - Conceptualising Resources-aware Higher Education D.pdf"}}
