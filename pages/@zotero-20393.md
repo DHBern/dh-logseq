@@ -1,0 +1,12 @@
+extra:: Citation Key: zotero-20393
+title:: @zotero-20393
+item-type:: [[journalArticle]]
+original-title:: A Development of the Metadata Model for Video Game Cataloging: For the Implementation of Media-Arts Database
+language:: en
+library-catalog:: Zotero
+links:: [Local library](zotero://select/groups/2386895/items/KCB66DIE), [Web library](https://www.zotero.org/groups/2386895/items/KCB66DIE)
+
+- [[Abstract]]
+	- A lot of studies for video games are progressing because of the expansion of research interest in video games. But it can be said that there is a lack of means to access video games as research materials. Therefore, cataloging or metadata model for video games has been discussed since 2010. Opinions are divided among researchers on the FRBR’s potential of description for video game resources. In this research, we design application model for video games based on IFLA LRM for the purpose of implementation in Media-Arts Database. The database is the only one comprehensive database produced by Agency for Cultural Affairs including bibliographic records of video game in Japan. We are proceeding research activities through cataloging practice of Ritsumeikan Center for Game Studies (RCGS), Ritsumeikan University. At First, we discuss the functional requirements for video game cataloging. Secondly, For the design of the metadata model, definitions, interpretation and criteria for record distinction were specified for the four entities of Work, Expression, Manifestation, and Item. Furthermore, the existing list of bibliographic relationships is deficient in the recording relationships of the video game. We created a vocabulary of bibliographic relationships required for the description of the video game by analysing some examples of the records in Media-arts Database and interview data to the catalogers. Thirdly, the designed model was verified through application for two cases. It was confirmed that the metadata model has potential of description to satisfy the above functional requirements.
+- [[Attachments]]
+	- [A Development of the Metadata Model for Video Game.pdf](https://library.ifla.org/id/eprint/2132/1/075-fukuda-en.pdf) {{zotero-imported-file X2SZICLQ, "A Development of the Metadata Model for Video Game.pdf"}}
