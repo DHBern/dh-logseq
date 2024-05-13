@@ -17,3 +17,5 @@ links:: [Local library](zotero://select/groups/2386895/items/2EN5SDYS), [Web lib
 - [[Attachments]]
 	- [arXiv.org Snapshot](https://arxiv.org/abs/2107.02173) {{zotero-imported-file MBYTBZER, "2107.html"}}
 	- [arXiv Fulltext PDF](https://arxiv.org/pdf/2107.02173.pdf) {{zotero-imported-file HEP2BSZH, "Hoyle et al. - 2021 - Is Automated Topic Model Evaluation Broken The I.pdf"}}
+- [[Notes]]
+	- Comment: Accepted to NeurIPS 2021 (spotlight presentation). CR version
