@@ -17,3 +17,8 @@ file-path:: ../assets/Pflicht_zum_Ende_der_Praedation_1715628887330_0.pdf
   hl-page:: 1
   hl-color:: red
   id:: 66426bac-6eb3-49e6-aef2-f21f85609798
+- Der erste Abschnitt dieser Arbeit ist Kants deontologische Moraltheorie gewidmet, um die Grundlagen vieler Argumente im Verlauf der Arbeit erfassen zu k¨onnen. Da sich Korsgaards Auslegung der deontologischen Moraltheorie von Kants Aussagen in einigen wichtigen Punkten unterscheidet, werden
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 66426c86-4d57-4c65-aeed-8772a59b515f
