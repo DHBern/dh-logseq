@@ -1,0 +1,16 @@
+tags:: [[Archival materials]], [[Collection management]], [[Collection management (Libraries)]], [[Cultural property]], [[Digital media]], [[Digitization]], [[Human computation]], [[Library materials]], [[Management]], [[Museums]], [[Philosophy]], [[Social aspects]]
+date:: 2014
+publisher:: Ashgate
+place:: "Farnham, Surrey, England"
+series:: Digital research in the arts and humanities
+isbn:: 978-1-4724-1022-1
+title:: @Crowdsourcing our cultural heritage
+item-type:: [[book]]
+call-number:: CC135 .C77 2014
+original-title:: Crowdsourcing our cultural heritage
+library-catalog:: Library of Congress ISBN
+links:: [Local library](zotero://select/groups/2386895/items/Y5APF74Z), [Web library](https://www.zotero.org/groups/2386895/items/Y5APF74Z)
+num-pages:: 283
+
+- [[Notes]]
+	- Crowdsourcing our cultural heritage : introduction / Mia Ridge, Open University, UK -- Part I. Case studies -- Crowdsourcing in Brooklyn / Shelley Bernstein, Brooklyn Museum, USA -- Old weather : approaching collections from a different angle / Lucinda Blaser, Royal Museums Greenwich, UK -- "Many hands make light work. Many hands together make merry work" : transcribe Bentham and crowdsourcing manuscript collections / Tim Causer, Bentham Project; Melissa Terras, Department of Information Studies, and Centre for Digital Humanities; University College London, UK -- Build, analyze, and generalize : community transcription of the papers of the War Department and the development of Scripto / Sharon M. Leon, Roy Rosenzweig Center for History and New Media, George Mason University, USA -- What's on the menu? Crowdsourcing at the New York Public Library / Michael Lascarides (National Library of New Zealand) and Ben Vershbow (New York Public Library) -- What's Welsh for "crowdsourcing"? : citizen science and community engagement at the National Library of Wales / Lyn Lewis Dafis, Lorna M. Hughes (National Library of Wales) and Rhian James (University of Wales), UK -- Waisda? : making videos findable through crowdsourced annotations / Johan Oomen (Netherlands Institute for Sound and Vision, Vrije Universiteit Amsterdam), Riste Gligorov and Michiel Hildebrand (Vrije Universiteit Amsterdam), The Netherlands -- Your paintings tagger : crowdsourcing descriptive metadata for a national virtual collection / Kathryn Eccles (Oxford Internet Institute) and Andrew Greg (University of Glasgow), UK -- Part II. Challenges and opportunities of cultural heritage crowdsourcing -- Crowding out the archivist? Locating crowdsourcing within the broader landscape of participatory archives / Alexandra Eveleigh (University College London), UK -- How the crowd can surprise us : humanities crowdsourcing and the creation of knowledge / Stuart Dunn and Mark Hedges, Centre for e-Research, Department of Digital Humanities, King's College London, UK -- The role of open authority in a collaborative web / Lori Byrd Phillips, The Children's Museum of Indianapolis, USA -- Making crowdsourcing compatible with the missions and values of cultural heritage organizations / Trevor Owens, Library of Congress, USA

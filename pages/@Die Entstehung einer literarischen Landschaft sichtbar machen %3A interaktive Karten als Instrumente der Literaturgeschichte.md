@@ -1,0 +1,11 @@
+date:: 2009
+doi:: 10.5169/SEALS-326531
+title:: @Die Entstehung einer literarischen Landschaft sichtbar machen : interaktive Karten als Instrumente der Literaturgeschichte
+item-type:: [[journalArticle]]
+access-date:: 2022-10-03T08:41:03Z
+original-title:: Die Entstehung einer literarischen Landschaft sichtbar machen : interaktive Karten als Instrumente der Literaturgeschichte
+url:: https://www.e-periodica.ch/digbib/view?pid=gui-001:2009:16::162
+short-title:: Die Entstehung einer literarischen Landschaft sichtbar machen
+authors:: [[Barbara Piatti]], [[Lorenz Hurni]], [[Anne-Kathrin Reuschel]]
+library-catalog:: DOI.org (Datacite)
+links:: [Local library](zotero://select/groups/2386895/items/9LVRFDQ7), [Web library](https://www.zotero.org/groups/2386895/items/9LVRFDQ7)
