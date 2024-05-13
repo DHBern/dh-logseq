@@ -419,4 +419,4 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type :group, :type-id ""}}}
+ :zotero/settings-v2 {"default" {:type :group, :type-id "2386895", :zotero-linked-attachment-base-directory ""}}}
