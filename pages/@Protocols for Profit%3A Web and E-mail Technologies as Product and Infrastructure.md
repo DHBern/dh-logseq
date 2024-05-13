@@ -1,0 +1,18 @@
+date:: 2008
+publisher:: The MIT Press
+isbn:: 978-0-262-51481-1
+title:: @Protocols for Profit: Web and E-mail Technologies as Product and Infrastructure
+book-title:: The Internet and American Business
+pages:: 105-158
+item-type:: [[bookSection]]
+access-date:: 2023-04-04T12:07:27Z
+original-title:: Protocols for Profit: Web and E-mail Technologies as Product and Infrastructure
+url:: https://www.jstor.org/stable/j.ctt5hhdzf
+authors:: [[Thomas Haigh]]
+library-catalog:: JSTOR
+links:: [Local library](zotero://select/groups/2386895/items/IL2LMHY4), [Web library](https://www.zotero.org/groups/2386895/items/IL2LMHY4)
+
+- [[Abstract]]
+	- When we think of the Internet, we generally think of Amazon, Google, Hotmail, Napster, MySpace, and other sites for buying products, searching for information, downloading entertainment, chatting with friends, or posting photographs. In the academic literature about the Internet, however, these uses are rarely covered. The Internet and American Business fills this gap, picking up where most scholarly histories of the Internet leave off--with the commercialization of the Internet established and its effect on traditional business a fact of life. These essays, describing challenges successfully met by some companies and failures to adapt by others, are a first attempt to understand a dynamic and exciting period of American business history. Tracing the impact of the commercialized Internet since 1995 on American business and society, the book describes new business models, new companies and adjustments by established companies, the rise of e-commerce, and community building; it considers dot-com busts and difficulties encountered by traditional industries; and it discusses such newly created problems as copyright violations associated with music file-sharing and the proliferation of Internet pornography. ContributorsAtsushi Akera, William Aspray, Randal A. Beam, Martin Campbell-Kelly, Paul E. Ceruzzi, James W. Cortada, Wolfgang Coy, Blaise Cronin, Nathan Ensmenger, Daniel D. Garcia-Swartz, Brent Goldfarb, Shane Greenstein, Thomas Haigh, Ward Hanson, David Kirsch, Christine Ogan, Jeffrey R. Yost William Aspray is Rudy Professor of Informatics at Indiana University in Bloomington. He is the editor (with J. McGrath Cohoon) of Women and Information Technology: Research on Underrepresentation (MIT Press, 2006 Paul E. Ceruzzi is Curator of the National Air and Space Museum, Smithsonian Institution, Washington DC. He is the author of A History of Modern Computing (second edition, MIT Press, 2003) and Internet Alley: High Technology in Tysons Corner, 1945-2005 (MIT Press, 2008)
+- [[Attachments]]
+	- [2008 - The Internet and American Business.pdf](zotero://select/groups/2386895/items/IGQ9YU5S) {{zotero-imported-file IGQ9YU5S, "2008 - The Internet and American Business.pdf"}}
