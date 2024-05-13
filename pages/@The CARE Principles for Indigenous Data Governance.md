@@ -1,0 +1,23 @@
+tags:: [[FAIR principles]], [[Indigenous]], [[data governance]], [[data principles]], [[data sovereignty]]
+date:: [[Nov 4th, 2020]]
+issn:: 1683-1470
+issue:: 1
+doi:: 10.5334/dsj-2020-043
+title:: @The CARE Principles for Indigenous Data Governance
+pages:: 43
+volume:: 19
+item-type:: [[journalArticle]]
+access-date:: 2023-02-19T16:05:47Z
+rights:: "Authors who publish with this journal agree to the following terms:    Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  All third-party images reproduced on this journal are shared under Educational Fair Use. For more information on  Educational Fair Use , please see  this useful checklist prepared by Columbia University Libraries .   All copyright  of third-party content posted here for research purposes belongs to its original owners.  Unless otherwise stated all references to characters and comic art presented on this journal are ©, ® or ™ of their respective owners. No challenge to any owner’s rights is intended or should be inferred."
+original-title:: The CARE Principles for Indigenous Data Governance
+language:: en
+url:: http://datascience.codata.org/articles/10.5334/dsj-2020-043/
+publication-title:: Data Science Journal
+authors:: [[Stephanie Russo Carroll]], [[Ibrahim Garba]], [[Oscar L. Figueroa-Rodríguez]], [[Jarita Holbrook]], [[Raymond Lovett]], [[Simeon Materechera]], [[Mark Parsons]], [[Kay Raseroka]], [[Desi Rodriguez-Lonebear]], [[Robyn Rowe]], [[Rodrigo Sara]], [[Jennifer D. Walker]], [[Jane Anderson]], [[Maui Hudson]]
+library-catalog:: datascience.codata.org
+links:: [Local library](zotero://select/groups/2386895/items/MZYZ8GHE), [Web library](https://www.zotero.org/groups/2386895/items/MZYZ8GHE)
+
+- [[Abstract]]
+	- Concerns about secondary use of data and limited opportunities for benefit-sharing have focused attention on the tension that Indigenous communities feel between (1) protecting Indigenous rights and interests in Indigenous data (including traditional knowledges) and (2) supporting open data, machine learning, broad data sharing, and big data initiatives. The International Indigenous Data Sovereignty Interest Group (within the Research Data Alliance) is a network of nation-state based Indigenous data sovereignty networks and individuals that developed the ‘CARE Principles for Indigenous Data Governance’ (Collective Benefit, Authority to Control, Responsibility, and Ethics) in consultation with Indigenous Peoples, scholars, non-profit organizations, and governments. The CARE Principles are people– and purpose-oriented, reflecting the crucial role of data in advancing innovation, governance, and self-determination among Indigenous Peoples. The Principles complement the existing data-centric approach represented in the ‘FAIR Guiding Principles for scientific data management and stewardship’ (Findable, Accessible, Interoperable, Reusable). The CARE Principles build upon earlier work by the Te Mana Raraunga Maori Data Sovereignty Network, US Indigenous Data Sovereignty Network, Maiam nayri Wingara Aboriginal and Torres Strait Islander Data Sovereignty Collective, and numerous Indigenous Peoples, nations, and communities. The goal is that stewards and other users of Indigenous data will ‘Be FAIR and CARE.’ In this first formal publication of the CARE Principles, we articulate their rationale, describe their relation to the FAIR Principles, and present examples of their application.
+- [[Attachments]]
+	- [Full Text PDF](http://datascience.codata.org/articles/10.5334/dsj-2020-043/galley/1010/download/) {{zotero-imported-file YMR2QHWV, "Carroll et al. - 2020 - The CARE Principles for Indigenous Data Governance.pdf"}}

@@ -1,0 +1,17 @@
+tags:: [[Academic history]], [[Age of Enlightenment]], [[Anachronism]], [[Anecdote]], [[Ashis Nandy]], [[Bengali literature]], [[Bengalis]], [[Bhakti]], [[Bourgeoisie]], [[Capitalism]], [[Capitalist mode of production (Marxist theory)]], [[Career]], [[Citizenship]], [[Civil society]], [[Colonial India]], [[Colonialism]], [[Colonization]], [[Commodity]], [[Criticism]], [[Critique]], [[Cruelty]], [[Deity]], [[Deliberation]], [[Disenchantment]], [[E. P. Thompson]], [[Eric Hobsbawm]], [[Explanation]], [[For Marx]], [[Grundrisse]], [[Gupta]], [[Gyan Prakash]], [[Hegemony]], [[Historicism]], [[Historiography]], [[Household]], [[Ideology]], [[Imperialism]], [[Indian nationalism]], [[Individualism]], [[Institution]], [[Insurgency]], [[Intellectual]], [[Jacques Derrida]], [[Lecture]], [[Liberalism]], [[Literary modernism]], [[Literature]], [[Martin Heidegger]], [[Marxism]], [[Marxist historiography]], [[Mehta]], [[Metanarrative]], [[Michael Madhusudan Dutt]], [[Middle class]], [[Modernity]], [[Narrative]], [[Nation state]], [[Nationalism]], [[Oppression]], [[Orientalism]], [[Patriarchy]], [[Philosopher]], [[Philosophy]], [[Poetry]], [[Political philosophy]], [[Politics]], [[Postcolonialism]], [[Postmodernism]], [[Prejudice]], [[Prose]], [[Public sphere]], [[Publication]], [[Rabindranath Tagore]], [[Ram Mohan Roy]], [[Ranajit Guha]], [[Religion]], [[Requirement]], [[Rhetoric]], [[Romanticism]], [[Routledge]], [[Sanskrit]], [[School of thought]], [[Sensibility]], [[Social Practice]], [[Social justice]], [[Social science]], [[Sociology]], [[Subaltern (postcolonialism)]], [[Subaltern Studies]], [[Subjectivity]], [[Sumit Sarkar]], [[Swadeshi movement]], [[The Other Hand]], [[Their Lives]], [[Theory]], [[Thought]], [[Use value]], [[Wealth]], [[Western world]], [[Writing]]
+date:: [[Jun 5th, 2009]]
+publisher:: Princeton University Press
+isbn:: 978-1-4008-2865-4
+title:: @Provincializing Europe: Postcolonial Thought and Historical Difference - New Edition
+item-type:: [[book]]
+access-date:: 2023-02-14T07:35:12Z
+original-title:: Provincializing Europe: Postcolonial Thought and Historical Difference - New Edition
+language:: en
+url:: https://www.degruyter.com/document/doi/10.1515/9781400828654/html
+short-title:: Provincializing Europe
+authors:: [[Dipesh Chakrabarty]]
+library-catalog:: www.degruyter.com
+links:: [Local library](zotero://select/groups/2386895/items/BDXT84TG), [Web library](https://www.zotero.org/groups/2386895/items/BDXT84TG)
+
+- [[Abstract]]
+	- First published in 2000, Dipesh Chakrabarty's influential Provincializing Europe addresses the mythical figure of Europe that is often taken to be the original site of modernity in many histories of capitalist transition in non-Western countries. This imaginary Europe, Dipesh Chakrabarty argues, is built into the social sciences. The very idea of historicizing carries with it some peculiarly European assumptions about disenchanted space, secular time, and sovereignty. Measured against such mythical standards, capitalist transition in the third world has often seemed either incomplete or lacking. Provincializing Europe proposes that every case of transition to capitalism is a case of translation as well--a translation of existing worlds and their thought--categories into the categories and self-understandings of capitalist modernity. Now featuring a new preface in which Chakrabarty responds to his critics, this book globalizes European thought by exploring how it may be renewed both for and from the margins.
