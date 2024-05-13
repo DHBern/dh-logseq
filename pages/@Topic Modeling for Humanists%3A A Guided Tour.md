@@ -12,3 +12,5 @@ links:: [Local library](zotero://select/groups/2386895/items/ZJ2D6VEK), [Web lib
 
 - [[Abstract]]
 	- It’s that time again! Somebody else posted a really clear and enlightening description of topic modeling on the internet. This time it was Allen Riddell, and it’s so good that it inspired me to write this post about topic modeling that includes no actual new information, but combines a lot of old information in a way that will hopefully be useful. If there’s anything I’ve missed, by all means let me know and I’ll update accordingly.
+- [[Attachments]]
+	- [Topic Modeling for Humanists: A Guided Tour » the scottbot irregular](http://www.scottbot.net/HIAL/?p=19113&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheScottbotIrregular+%28the+scottbot+irregular%29&utm_content=Google+Reader) {{zotero-imported-file GTDXP6N7, "HIAL.html"}}
