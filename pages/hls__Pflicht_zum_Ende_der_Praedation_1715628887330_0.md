@@ -22,3 +22,8 @@ file-path:: ../assets/Pflicht_zum_Ende_der_Praedation_1715628887330_0.pdf
   hl-page:: 1
   hl-color:: yellow
   id:: 66426c86-4d57-4c65-aeed-8772a59b515f
+- auf den an verschiedenen Stellen der vorliegenden Arbe
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 6643613b-b4e8-484f-b548-2d022fbb06aa
